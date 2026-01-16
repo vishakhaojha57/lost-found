@@ -71,12 +71,6 @@ lost-found/
 └── README.md # Project documentation
 
 
----
-
-## 🧠 **Optional (sir ke liye extra strong)**
-Agar thoda aur explanation chahiye **structure ke niche**, to ye bhi paste kar sakta hai 👇
-
-```md
 ### 📌 Structure Explanation
 
 - **public/**  
