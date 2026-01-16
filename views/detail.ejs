@@ -1,0 +1,10 @@
+<h2><%= item.name %></h2>
+<p>Type: <%= item.type %></p>
+<p>Category: <%= item.category %></p>
+<p>Location: <%= item.location %></p>
+<p><%= item.description %></p>
+
+<h3>Possible Matches</h3>
+<% matches.forEach(m => { %>
+  <p><%= m.name %> - <%= m.type %></p>
+<% }) %>
